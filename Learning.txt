@@ -3,10 +3,9 @@ Welcome to learning Github
 I am learning git for the first time  
 I will getting into one of the best companies in USA
 I will work hard for it 
-
-
 From here I will creat a new branch.
-
 My new branch begins from now on.
 feature 1 added
 feature 2 added
+We are still in the main branch
+
